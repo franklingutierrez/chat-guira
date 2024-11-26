@@ -1,4 +1,5 @@
 # GUIRATEC Chat AI
+![image](https://github.com/user-attachments/assets/753e7a78-f39c-40d4-9f08-c98300ec7e32)
 
 ## Configuración
 
