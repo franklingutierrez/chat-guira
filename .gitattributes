@@ -1,0 +1,20 @@
+# Configurar el comportamiento predeterminado
+* text=auto
+
+# Archivos de texto
+*.js text eol=lf
+*.jsx text eol=lf
+*.json text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.env text eol=lf
+
+# Archivos binarios
+*.png binary
+*.jpg binary
+*.gif binary
+*.ico binary
+*.pdf binary 
